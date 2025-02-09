@@ -1,0 +1,9 @@
+This lab is about using of matrix decomposition technics in machine learning problems. 
+
+You will need to:
+1. Learn how the simplest decomposition algorithms work (PCA, FastICA, Non-Negative matrix factorization)
+2. Analyze the results of the faces dataset decomposition from the point of implementation of different factorization methods view
+3. Choose any open sourced dataset from the UCI repository (https://archive.ics.uci.edu/)
+4. Choose any learnt machine learning algorithm
+5. Make an analysis how usage of matrix factorization methods work for the model in case of reduction of the dataset dimensions number (you can find an example in the lab's folder)
+6. Write a report with the insights about different factorization methods and results of model's training and dimensionality reduction.

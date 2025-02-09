@@ -1,0 +1,22 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+WARNING: Insufficient data from the input file for $fread
+
+##################################
+#### Loading elf file: D:/Programs/Computer_Systems_Design/lab3/activecore-master/designs/rtl/sigma/sw/apps/div13_app.riscv
+e_machine: 0x000000f3 (   RISC-V)
+e_phnum: 0x00000001
+---- HEADER: 0 ----
+p_type: 0x00000001
+p_offset: 0x00000000
+p_vaddr: 0x00000000
+p_paddr: 0x00000000
+p_filesz: 0x00000658
+p_memsz: 0x00000660
+p_flags: 0x00000007
+p_align: 0x00001000
+##################################
+
+### SIMULATION STARTED ###
+### TEST PROCEDURE FINISHED ###
+$stop called at time : 512665 ns : File "D:/Programs/Computer_Systems_Design/lab3/activecore-master/designs/rtl/sigma/tb/riscv_tb.sv" Line 133

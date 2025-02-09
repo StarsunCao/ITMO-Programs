@@ -1,0 +1,14 @@
+In this lab, you will work with regression models using an open-source dataset from the UCI repository (https://archive.ics.uci.edu/).
+
+You will need to: 
+1. Analyze the dataset to check for missing data and duplicates, and fix any issues you find. 
+2. Analyze feature values and their correlations with the target variable. 
+3. Select several regression algorithms, find optimal hyperparameters for each, train the models, and compare their performance using the R^2 score. 
+4. Write a report summarizing your findings and conclusions about the data, models, and training results.
+
+In this lab you can tune these ML algorithms:
+1. Linear regression (https://scikit-learn.org/stable/modules/linear_model.html)
+2. kNN-based regression (https://scikit-learn.org/stable/modules/neighbors.html)
+3. Decision Tree based regression (https://scikit-learn.org/stable/modules/tree.html)
+
+Also, in the directory for this lab, you can find an example of time series forecasting using a linear regression model. This example is more challenging because it involves methods for working with time series data. Nevertheless, it is one of the examples demonstrating feature development in ML and the application of linear regression models.

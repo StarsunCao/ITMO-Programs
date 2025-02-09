@@ -1,0 +1,12 @@
+In this lab, you will analyze a dataset using clustering techniques. The lab folder contains an example of clustering the Wine dataset (https://archive.ics.uci.edu/datasets/wine). 
+
+To complete the lab, you need to: 
+1. Select any classification dataset from the UCI repository. 
+2. Create your own quality metric to measure the performance of clustering algorithms based on the correct labels in the classification dataset. 
+3. Remove the labels in the training dataset for use with clustering algorithms. 
+4. Apply various clustering algorithms (K-means, hierarchical clustering, DBSCAN) and compare them using your custom metric. Note: You will need to experiment with different numbers of clusters, regardless of the number of unique labels in the original dataset. 
+5. Analyze the results of clustering: 
+    - Compare clusters between each other based on differences in features 
+    - Identify outliers if any 
+    - Analyze the internal structure of clusters
+6. Prepare a report based on the results of the analysis.

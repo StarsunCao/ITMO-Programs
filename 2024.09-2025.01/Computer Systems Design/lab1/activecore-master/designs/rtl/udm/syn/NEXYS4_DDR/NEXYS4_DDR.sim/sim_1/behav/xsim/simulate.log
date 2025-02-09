@@ -1,0 +1,45 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+### SIMULATION STARTED ###
+-------- (Dividend = 0) --------
+UDM WR32: addr: 0x10000000, data: 0x00000000
+UDM RD32: addr: 0x20000000, data: 0x00000000
+UDM RD32: addr: 0x20000004, data: 0x00000000
+-------- (Dividend = 100) --------
+UDM WR32: addr: 0x10000000, data: 0x00000064
+UDM RD32: addr: 0x20000000, data: 0x00000007
+UDM RD32: addr: 0x20000004, data: 0x00000009
+-------- (Dividend = 200) --------
+UDM WR32: addr: 0x10000000, data: 0x000000c8
+UDM RD32: addr: 0x20000000, data: 0x0000000f
+UDM RD32: addr: 0x20000004, data: 0x00000005
+-------- (Dividend = 300) --------
+UDM WR32: addr: 0x10000000, data: 0x0000012c
+UDM RD32: addr: 0x20000000, data: 0x00000017
+UDM RD32: addr: 0x20000004, data: 0x00000001
+-------- (Dividend = 400) --------
+UDM WR32: addr: 0x10000000, data: 0x00000190
+UDM RD32: addr: 0x20000000, data: 0x0000001e
+UDM RD32: addr: 0x20000004, data: 0x0000000a
+-------- (Dividend = 500) --------
+UDM WR32: addr: 0x10000000, data: 0x000001f4
+UDM RD32: addr: 0x20000000, data: 0x00000026
+UDM RD32: addr: 0x20000004, data: 0x00000006
+-------- (Dividend = 600) --------
+UDM WR32: addr: 0x10000000, data: 0x00000258
+UDM RD32: addr: 0x20000000, data: 0x0000002e
+UDM RD32: addr: 0x20000004, data: 0x00000002
+-------- (Dividend = 700) --------
+UDM WR32: addr: 0x10000000, data: 0x000002bc
+UDM RD32: addr: 0x20000000, data: 0x00000035
+UDM RD32: addr: 0x20000004, data: 0x0000000b
+-------- (Dividend = 800) --------
+UDM WR32: addr: 0x10000000, data: 0x00000320
+UDM RD32: addr: 0x20000000, data: 0x0000003d
+UDM RD32: addr: 0x20000004, data: 0x00000007
+-------- (Dividend = 900) --------
+UDM WR32: addr: 0x10000000, data: 0x00000384
+UDM RD32: addr: 0x20000000, data: 0x00000045
+UDM RD32: addr: 0x20000004, data: 0x00000003
+### TEST PROCEDURE FINISHED ###
+$stop called at time : 19845 ns : File "D:/Programs/Computer_Systems_Design/lab1/activecore-master/designs/rtl/udm/tb/tb.sv" Line 107

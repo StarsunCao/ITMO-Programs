@@ -1,0 +1,19 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/ram/ram.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/ram/ram_dual.v,,ram,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/ram/ram_dual.v,1725568853,verilog,,,,ram_dual,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/ram/ram_dual_memsplit.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/ram/ram.v,,ram_dual_memsplit,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/reset_sync/reset_sync.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/ram/ram_dual_memsplit.v,,reset_sync,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/uart_rx.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/udm_controller.v,,uart_rx,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/uart_tx.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/reset_sync/reset_sync.v,,uart_tx,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/udm.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/uart_rx.v,,udm,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/udm_controller.v,1725568853,verilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/hw/uart_tx.v,,udm_controller,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.ip_user_files/ip/sys_clk/sys_clk_sim_netlist.v,1732825392,verilog,,,,sys_clk;sys_clk_sys_clk_clk_wiz,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.srcs/sources_1/new/DivByConst13_comb.sv,1733602180,systemVerilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.srcs/sources_1/new/reset_cntrl.sv,,DivByConst13_pipeline,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.srcs/sources_1/new/reset_cntrl.sv,1732746906,systemVerilog,,,,reset_cntrl,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.sv,1733602263,systemVerilog,,,,MemSplit32;NEXYS4_DDR,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/tb/tb.sv,1733597851,systemVerilog,,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/syn/NEXYS4_DDR/NEXYS4_DDR.sv,D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/tb/udm.svh,tb,,,,,,,,
+D:/Programs/Computer_Systems_Design/lab2/activecore-master/designs/rtl/udm/tb/udm.svh,1725568853,verilog,,,,,,,,,,,,

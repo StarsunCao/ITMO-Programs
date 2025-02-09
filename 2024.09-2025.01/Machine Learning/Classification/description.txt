@@ -1,0 +1,13 @@
+This lab aims to test your programming skills in Machine Learning. 
+
+You will need to: 
+1. Choose one of the classification datasets from the UCI repository (https://archive.ics.uci.edu/) 
+2. Select two classification models from the following list: 
+- Logistic Regression (https://scikit-learn.org/stable/modules/linear_model.html)
+- Decision Tree Classifier (https://scikit-learn.org/stable/modules/tree.html)
+- Bayesian Classifier (https://scikit-learn.org/stable/modules/naive_bayes.html)
+3. Implement these models yourself without using any external libraries 
+4. Compare your results with the sklearn implementations 
+5. Write the report with the results of different implementations comparison and conclusions
+
+The lab folder contains an example implementation of a k-Nearest Neighbors (kNN) classifier and a comparison with the sklearn implementation.

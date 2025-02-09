@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="19845000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="169"></NameColumnWidth>
+      <ValueColumnWidth column_width="325"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/tb/SW" type="array">
+      <obj_property name="ElementShortName">SW[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SW[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/LED" type="array">
+      <obj_property name="ElementShortName">LED[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LED[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/clk_gen" type="logic">
+      <obj_property name="ElementShortName">clk_gen</obj_property>
+      <obj_property name="ObjectShortName">clk_gen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_reset" type="logic">
+      <obj_property name="ElementShortName">udm_reset</obj_property>
+      <obj_property name="ObjectShortName">udm_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_req" type="logic">
+      <obj_property name="ElementShortName">udm_req</obj_property>
+      <obj_property name="ObjectShortName">udm_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_we" type="logic">
+      <obj_property name="ElementShortName">udm_we</obj_property>
+      <obj_property name="ObjectShortName">udm_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_ack" type="logic">
+      <obj_property name="ElementShortName">udm_ack</obj_property>
+      <obj_property name="ObjectShortName">udm_ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_resp" type="logic">
+      <obj_property name="ElementShortName">udm_resp</obj_property>
+      <obj_property name="ObjectShortName">udm_resp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_be" type="array">
+      <obj_property name="ElementShortName">udm_be[3:0]</obj_property>
+      <obj_property name="ObjectShortName">udm_be[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_rdata" type="array">
+      <obj_property name="ElementShortName">udm_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">udm_rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_wdata" type="array">
+      <obj_property name="ElementShortName">udm_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">udm_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_addr" type="array">
+      <obj_property name="ElementShortName">udm_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">udm_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/CSR_DIVIDEND_ADDR" type="array">
+      <obj_property name="ElementShortName">CSR_DIVIDEND_ADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CSR_DIVIDEND_ADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/CSR_REMAINDER_ADDR" type="array">
+      <obj_property name="ElementShortName">CSR_REMAINDER_ADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CSR_REMAINDER_ADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/CSR_QUOTIENT_ADDR" type="array">
+      <obj_property name="ElementShortName">CSR_QUOTIENT_ADDR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CSR_QUOTIENT_ADDR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/dividend" type="array">
+      <obj_property name="ElementShortName">dividend[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dividend[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/quotient" type="array">
+      <obj_property name="ElementShortName">quotient[15:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/remainder" type="array">
+      <obj_property name="ElementShortName">remainder[15:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder[15:0]</obj_property>
+   </wvobject>
+</wave_config>

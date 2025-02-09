@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="24725000001fs"></ZoomEndTime>
+      <Cursor1Time time="12824280000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="177"></NameColumnWidth>
+      <ValueColumnWidth column_width="93"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="46" />
+   <wave_markers>
+      <marker time="4565000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb/SW" type="array">
+      <obj_property name="ElementShortName">SW[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SW[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/LED" type="array">
+      <obj_property name="ElementShortName">LED[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LED[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/clk_gen" type="logic">
+      <obj_property name="ElementShortName">clk_gen</obj_property>
+      <obj_property name="ObjectShortName">clk_gen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_reset" type="logic">
+      <obj_property name="ElementShortName">udm_reset</obj_property>
+      <obj_property name="ObjectShortName">udm_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/req" type="logic">
+      <obj_property name="ElementShortName">req</obj_property>
+      <obj_property name="ObjectShortName">req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/addr" type="array">
+      <obj_property name="ElementShortName">addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/we" type="logic">
+      <obj_property name="ElementShortName">we</obj_property>
+      <obj_property name="ObjectShortName">we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/wdata" type="array">
+      <obj_property name="ElementShortName">wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/be" type="array">
+      <obj_property name="ElementShortName">be[3:0]</obj_property>
+      <obj_property name="ObjectShortName">be[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/resp" type="logic">
+      <obj_property name="ElementShortName">resp</obj_property>
+      <obj_property name="ObjectShortName">resp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/udm_bus/rdata" type="array">
+      <obj_property name="ElementShortName">rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_dividend" type="array">
+      <obj_property name="ElementShortName">div_dividend[9:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">div_dividend[9:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_quotient" type="array">
+      <obj_property name="ElementShortName">div_quotient[9:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">div_quotient[9:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_remainder" type="array">
+      <obj_property name="ElementShortName">div_remainder[9:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">div_remainder[9:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_0" type="array">
+      <obj_property name="ElementShortName">x_0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_1" type="array">
+      <obj_property name="ElementShortName">x_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_2" type="array">
+      <obj_property name="ElementShortName">x_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_3" type="array">
+      <obj_property name="ElementShortName">x_3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_4" type="array">
+      <obj_property name="ElementShortName">x_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_5" type="array">
+      <obj_property name="ElementShortName">x_5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_5[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_6" type="array">
+      <obj_property name="ElementShortName">x_6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_6[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_7" type="array">
+      <obj_property name="ElementShortName">x_7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_7[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_8" type="array">
+      <obj_property name="ElementShortName">x_8[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_8[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/x_9" type="array">
+      <obj_property name="ElementShortName">x_9[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_9[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/hls_module_done" type="logic">
+      <obj_property name="ElementShortName">hls_module_done</obj_property>
+      <obj_property name="ObjectShortName">hls_module_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_0" type="array">
+      <obj_property name="ElementShortName">quotient_0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_1" type="array">
+      <obj_property name="ElementShortName">quotient_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_2" type="array">
+      <obj_property name="ElementShortName">quotient_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_3" type="array">
+      <obj_property name="ElementShortName">quotient_3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_4" type="array">
+      <obj_property name="ElementShortName">quotient_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_5" type="array">
+      <obj_property name="ElementShortName">quotient_5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_5[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_6" type="array">
+      <obj_property name="ElementShortName">quotient_6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_6[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_7" type="array">
+      <obj_property name="ElementShortName">quotient_7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_7[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_8" type="array">
+      <obj_property name="ElementShortName">quotient_8[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_8[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/quotient_9" type="array">
+      <obj_property name="ElementShortName">quotient_9[31:0]</obj_property>
+      <obj_property name="ObjectShortName">quotient_9[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_0" type="array">
+      <obj_property name="ElementShortName">remainder_0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_1" type="array">
+      <obj_property name="ElementShortName">remainder_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_2" type="array">
+      <obj_property name="ElementShortName">remainder_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_3" type="array">
+      <obj_property name="ElementShortName">remainder_3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_4" type="array">
+      <obj_property name="ElementShortName">remainder_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_5" type="array">
+      <obj_property name="ElementShortName">remainder_5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_5[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_6" type="array">
+      <obj_property name="ElementShortName">remainder_6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_6[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_7" type="array">
+      <obj_property name="ElementShortName">remainder_7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_7[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_8" type="array">
+      <obj_property name="ElementShortName">remainder_8[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_8[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DUT/div_inst/remainder_9" type="array">
+      <obj_property name="ElementShortName">remainder_9[31:0]</obj_property>
+      <obj_property name="ObjectShortName">remainder_9[31:0]</obj_property>
+   </wvobject>
+</wave_config>
